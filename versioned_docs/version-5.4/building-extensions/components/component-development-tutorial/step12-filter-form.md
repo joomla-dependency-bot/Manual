@@ -29,7 +29,7 @@ the select box at the top, and by selecting the column headers.
 These 3 aspects are grouped into a single tutorial step because they all use the same filter form for implementation.
 Of course, in your own extension you can choose which aspects to implement - each aspect can be implemented individually.
 
-The code is available at [com_example step 12](https://github.com/joomla/manual-examples/tree/main/component-tutorial/step11_filter_form).
+The code is available at [com_example step 12](https://github.com/joomla/manual-examples/tree/main/component-tutorial/step12_filter_form).
 
 ## Learning Points
 
