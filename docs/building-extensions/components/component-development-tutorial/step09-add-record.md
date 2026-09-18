@@ -202,6 +202,8 @@ and thus view the form data which failed to save.
 
 ## Challenge
 
+### Title Icon
+
 In the view file the camera icon was added into the form title using the code:
 
 ```
@@ -211,4 +213,15 @@ ToolBarHelper::title(Text::_('COM_EXAMPLE_LANDMARKS_VIEW_TITLE'), 'camera');
 Using icons within Joomla is described in [Icons](../../../general-concepts/icons.md),
 and the icons available are depicted in [Icons in standard templates](https://guide.joomla.org/user-manual/templates/standard-icons).
 
-Try changing the icon from a camera to one of the other Joomla / fontawesome icons.
+Try changing the icon from a camera to one of the other Joomla / fontawesome icons. 
+If you want to use a fontawesome icon rather than one of the IcoMoon replacement icons 
+then you'll need to use the approach outlined in the Tip in the [Icons page](../../../general-concepts/icons.md).
+
+### Quicktask
+
+In the Administrator menu, if you navigate within the Content section 
+then you'll see Articles with a little \+ icon on its right.
+The \+ icon is a quicktask, and is a shortcut to allow administrator to go straight to the form for adding an article.
+
+Can you follow the instructions in [Quicktask Link and Icon](../additional-topics/quicktasklink.md)
+to create a similar shortcut to adding a new landmark?
